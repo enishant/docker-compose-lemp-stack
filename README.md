@@ -27,7 +27,7 @@ To use it, simply follow the following steps:
 
 ##### Clone this repository.
 
-Clone this repository with the following command: `git clone https://github.com/enishant/docker-compose-lemp-stack.git`.
+Clone this repository with the following command: `git clone https://github.com/enishant/docker-compose-lemp-stack.git .`
 
 ##### Start the server.
 
